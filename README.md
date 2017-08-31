@@ -1,2 +1,2 @@
-# B490_aug31
-This is the Lab Intro
+# Bio 490S
+Repository for Class
